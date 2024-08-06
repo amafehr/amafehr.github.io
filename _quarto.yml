@@ -1,0 +1,47 @@
+project:
+  type: website
+  output-dir: _site
+  render:
+    - "*.qmd"
+
+
+website:
+  open-graph: true
+  title: "Ashley Fehr"
+  site-url: https://amafehr.github.io
+  repo-url: https://github.com/amafehr/amafehr.github.io
+  favicon: assets/images/uvm.ico
+  twitter-card:
+    creator: "@Mariah-Boudreau"
+    site: "@Mariah-Boudreau"
+    card-style: "summary_large_image"
+
+  navbar:
+    style: "floating"
+    background: dark
+    foreground: light
+    left:
+      - href: index.qmd
+        text: Home
+      - href: about.qmd
+      - href: CV.pdf
+        text: CV
+      - href: Resume.pdf
+        text: Resume
+      - href: publications.qmd
+        text: Publications
+    search: true
+    pinned: true
+
+format:
+  html:
+    theme: spacelab
+    toc: true
+    smooth-scroll: true
+    html-math-method: katex
+    include-in-header:
+      - includes.html
+    footnotes-hover: false
+    code-fold: true
+    grid:
+      body-width: 1100px

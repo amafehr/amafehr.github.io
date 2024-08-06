@@ -1,0 +1,19 @@
+---
+title: "About Me"
+---
+
+
+<img src="/assets/images/headshot2022part2.jpg" width="25%" hspace="20" align="left">
+
+I am a Vermonter through and through. I grew up in Northern Vermont and got my Bachelors of Science in Mathematics at the Saint Michael's College. After graduating, I immediately started my graduate studies at the University of Vermont in the Mathematical Science Ph.D. program and within the Vermont Complex Systems Center. 
+
+
+When I am not at my laptop or reading papers, you can find me either in the mountains, where I am hiking, skiing, or ski patrolling, or at a Crossfit class. 
+
+
+
+[1]: https://vermontcomplexsystems.org/
+
+[2]: https://www.uvm.edu/cems/mathstat
+
+
