@@ -4,7 +4,7 @@ title: "Welcome!"
 
 <img src="/images/headshot.jpg" width="60%" hspace="20" align="center">
 
-I am a fifth year [Mathematical Sciences Ph.D.](https://www.uvm.edu/cems/mathstat) candidate in the [Joint Lab](https://joint-lab.github.io/) and [Computational Story Lab](https://compstorylab.org/) at the [Vermont Complex Systems Center at the University of Vermont (UVM)](https://vermontcomplexsystems.org/). My research has mostly focused on network science applied to biology. This led me in the direction of mathematical methods for networks, specifically stochastic models that involve branching processes. 
+I am a second year [Complex Systems Ph.D.](https://www.uvm.edu/cems/mathstat) student in the [Computational Story Lab](https://compstorylab.org/) at the [Vermont Complex Systems Center at the University of Vermont (UVM)](https://vermontcomplexsystems.org/). My research has mostly focused on network science applied to biology. This led me in the direction of mathematical methods for networks, specifically stochastic models that involve branching processes.
 
 **I am on the job market!** Looking to explore industry positions. I am open to using my skill set on a wide variety of complex problems. Expected graduation date summer 2024.
 
@@ -42,25 +42,25 @@ I am a fifth year [Mathematical Sciences Ph.D.](https://www.uvm.edu/cems/mathsta
 
 ## Recent News
 
-* **October 2023**: Completed my comprehensive exam, making me a Ph.D. Candidate in Mathematical Sciences! 
+* **October 2023**: Completed my comprehensive exam, making me a Ph.D. Candidate in Mathematical Sciences!
 
 * **October 2023**: Joint work with Andrea J. Allen, Nicholas J. Roberts, Antoine Allard, and Laurent Hébert-Dufresne, *Temporal and probabilistic comparisons of epidemic interventions* is now available on [Bulletin of Mathematical Biology](https://link.springer.com/article/10.1007/s11538-023-01220-w)!
 
 * **September 2023**: Attended the [Grace Hopper Celebration for Women in Tech](https://ghc.anitab.org/) in Orlando, Florida to explore career opportunities and attend invited talks.
 
-* **August 2023**: Presented a contributed talk titled *Sensitivity analysis of stochastic polynomials, and its application to epidemic forecasting and random graphs* at Contagion on Complex Social Systems Workshop 2023 at the University of Vermont. 
+* **August 2023**: Presented a contributed talk titled *Sensitivity analysis of stochastic polynomials, and its application to epidemic forecasting and random graphs* at Contagion on Complex Social Systems Workshop 2023 at the University of Vermont.
 
 * **May 2023**: Presented on the preprint titled *Temporal and probabilistic forecasts of epidemic interventions* at the Women in Network Science Minisymposium at [SIAM Dynamical Systems](https://www.siam.org/conferences/cm/conference/ds23) 2023 Conference in Portland, Oregon.
 
-* **May 2023**: Attended the [Women in Network Science Collabathon](https://sites.google.com/view/womeninnetworkscience/meetings/collabathon-2023) at the Network Science Institute at Northeastern University. 
+* **May 2023**: Attended the [Women in Network Science Collabathon](https://sites.google.com/view/womeninnetworkscience/meetings/collabathon-2023) at the Network Science Institute at Northeastern University.
 
-* **April 2023**: Presented a poster titled *Temporal and probabilistic forecasts of epidemic interventions* at the [UVM Student Research Conference 2023](https://www.uvm.edu/four/uvm-src-2023). 
+* **April 2023**: Presented a poster titled *Temporal and probabilistic forecasts of epidemic interventions* at the [UVM Student Research Conference 2023](https://www.uvm.edu/four/uvm-src-2023).
 
-* **April 2023**: Discussed how we can understand the world as networks on the [Math 4 All](https://www.youtube.com/watch?v=XuA3uKH3uRI&t=1108s) podcast. 
+* **April 2023**: Discussed how we can understand the world as networks on the [Math 4 All](https://www.youtube.com/watch?v=XuA3uKH3uRI&t=1108s) podcast.
 
 * **February 2023**: Joint work with Andrea J. Allen, Nicholas J. Roberts, Antoine Allard, and Laurent Hébert-Dufresne, *Temporal and probabilistic forecasts of epidemic interventions* is now available on [ArXiv](https://arxiv.org/abs/2302.03210)!
 
 * **February 2023**: Joint work with Robyn M. Stuart, Jamie A. Cohen, Cliff C. Kerr, Romesh G. Abeysuriya, Marita Zimmerman, Darcy W. Rao, and Daniel J. Klein, *HPVsim: An agent-based model of HPV transmission and cervical disease* from my contract work with the Gates Foundation is now available on [medRXiv](https://www.medrxiv.org/content/10.1101/2023.02.01.23285356v1.full.pdf+html)!
 
-* **May 2022**: Started my internship/contract work at the Institute for Disease Modeling at the Bill and Melinda Gates Foundation. 
+* **May 2022**: Started my internship/contract work at the Institute for Disease Modeling at the Bill and Melinda Gates Foundation.
 
