@@ -1,7 +1,7 @@
 on:
   workflow_dispatch:
   push:
-    branches: master
+    branches: main
 
 name: Quarto Publish
 
@@ -16,7 +16,7 @@ jobs:
 
       - name: Set up Quarto
         uses: quarto-dev/quarto-actions/setup@v2
-      
+
       - name: Install Python and Dependencies
         uses: actions/setup-python@v4
         with:

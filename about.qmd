@@ -4,15 +4,13 @@ title: "About"
 
 <img src="/images/roboctopus.jpg" width="35%" hspace="10" align="right">
 
-I am a Vermonter through and through. I grew up in Northern Vermont and got my Bachelor of Science in Mathematics at Saint Michael's College. After graduating, I jumped right into my graduate studies at the University of Vermont in the Mathematical Science Ph.D. program and the Vermont Complex Systems Center. 
-
+TODO: professional and academic background summary
 
 
 
 <img src="/images/mountain.jpg" width="35%" hspace="10" align="left">
 
-When I am not at my laptop or reading papers, you can find me either in the mountains, where I am hiking or skiing, or at a Crossfit class. 
-
+TODO: short personal summary
 
 
 
