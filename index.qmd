@@ -49,7 +49,7 @@ My main, broad interest is people in [complex systems](https://complexityexplain
 <br><br>
 
 ## Research Interests
-I am interested in the measuring complex, interpersonal processes in digital mediums.
+I am interested in measuring complex, interpersonal processes in digital mediums.
 People are motivated to socially connect and often rely on technology and text to do so,
 leading me in the direction of asking how well technology facilitates this goal and how
 can we best measure the constructs driving this process in individual and collective levels?
