@@ -2,16 +2,28 @@
 title: "Welcome!"
 ---
 
-<img src="/images/headshot.jpg" width="60%" hspace="20" align="center">
+::: columns
 
-I am a second year [Complex Systems Ph.D.](https://www.uvm.edu/cems/interdisciplinary-programs)
-student in the [Computational Story Lab](https://compstorylab.org/) at the
-[Vermont Complex Systems Center at the University of Vermont (UVM)](https://vermontcomplexsystems.org/) in Burlington, Vermont.
-<!-- My research has mostly focused on network science applied to biology.
-This led me in the direction of mathematical methods for networks, specifically
-stochastic models that involve branching processes. -->
 
-Expected graduation date summer 2028.
+::: {.column width="40%"}
+
+I am a second year [Complex Systems Ph.D.](https://www.uvm.edu/cems/interdisciplinary-programs) student
+at the University of Vermont in Burlington. I'm a member of the [Computational Story Lab](https://compstorylab.org/)
+at the [Vermont Complex Systems Center](https://vermontcomplexsystems.org/).
+
+My main, broad interest is people in [complex systems](https://complexityexplained.github.io/).
+
+
+<i>Expected graduation date of summer 2028.</i>
+
+:::
+
+::: {.column width="60%"}
+
+<img src="/images/headshot.jpg" width="60%" hspace="20">
+:::
+:::
+
 
 
 ::: {.column-page-inset .text-center}
@@ -19,11 +31,9 @@ Expected graduation date summer 2028.
 <a class="btn btn-outline-dark", href="mailto:ashley.fehr@uvm.edu" target="_blank" rel="noopener noreferrer">
     <i class="ai bi-envelope" role='img' aria-label='Email'></i> Email
 </a>
-<!--
-<a class="btn btn-outline-dark", href="https://scholar.google.com/citations?user=yYcYoIMAAAAJ&hl=en" target="_blank" rel="noopener noreferrer">
+<a class="btn btn-outline-dark", href="https://scholar.google.com/citations?user=ftgp0QoAAAAJ&hl=en" target="_blank" rel="noopener noreferrer">
     <i class="ai ai-google-scholar" role='img' aria-label='Google Scholar'></i> Scholar
 </a>
--->
 <a class="btn btn-outline-dark", href="https://gitlab.com/amafehr" target="_blank" rel="noopener noreferrer">
     <i class="bi bi-gitlab" role='img' aria-label='Gitlab'></i> Gitlab
 </a>
@@ -36,9 +46,13 @@ Expected graduation date summer 2028.
 ```
 :::
 
-## Research Interests
-* I am interested in the measuring the complex, interpersonal processes at play in digital conversation. How well does technology facilitate and how can we best measure the constructs driving this process in individual and collective levels?
+<br><br>
 
+## Research Interests
+I am interested in the measuring complex, interpersonal processes in digital mediums.
+People are motivated to socially connect and often rely on technology and text to do so,
+leading me in the direction of asking how well technology facilitates this goal and how
+can we best measure the constructs driving this process in individual and collective levels?
 
 ## Personal Interests
 * Biking
@@ -49,13 +63,16 @@ Expected graduation date summer 2028.
 
 ## Recent News
 
-**2024**
-<!-- - August: Passed 1/3 of qualifying exams for the program (data science methods). -->
-- July: Attended IC2S2 at University of Pennsylvania.
-- May-June: Biked 560 miles (10k ft elevation) of the Empire State Trail over 9 days from Buffalo, NY to NYC.
-- May: Finished first year of the CSDS PhD program!
-- May: Presented in Story Lab on linguistic coordination in the CANDOR conversation corpus.
-- April: Presented a poster at the UVM Student Research Conference on structuring discussion forum conversations as network data.
-**2023**
-- August: Joined the Computational Story Lab and started in the PhD program in Complex Systems and Data Science.
+**2024**<br>
+
+<!-- * August: Passed 1/3 of qualifying exams for the program (data science methods). -->
+* July: Attended [IC2S2](https://ic2s2-2024.org/) at University of Pennsylvania.
+* May-June: Biked 560 miles (10k ft elevation) of the Empire State Trail over 9 days from Buffalo, NY to NYC.
+* May: Finished first year of the CSDS PhD program!
+* May: Presented in Story Lab on linguistic coordination in the [CANDOR](https://www.science.org/doi/10.1126/sciadv.adf3197) conversation corpus.
+* April: Presented a poster at the UVM Student Research Conference on structuring discussion forum conversations as network data.
+
+**2023**<br>
+
+* Joined the Computational Story Lab and started in the PhD program in Complex Systems and Data Science.
 

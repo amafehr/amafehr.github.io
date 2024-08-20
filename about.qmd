@@ -2,15 +2,20 @@
 title: "About"
 ---
 
-<img src="/images/roboctopus.jpg" width="35%" hspace="10" align="right">
 
-TODO: professional and academic background summary
+Before joining the program, I worked in various roles as a research, applied, or data scientist.
+I applied my prior education in psychology to more applied behavioral science questions,
+conducting work ranging from survey data collection to representing people in simulations
+using agent based modeling. Over this professional experience, I became more interested in how
+we can study and evaluate systems involving people, leading me to find the area of complexity science!
 
 
-
+<!--
 <img src="/images/mountain.jpg" width="35%" hspace="10" align="left">
+-->
 
-TODO: short personal summary
+I am otherwise engaged in walking my dogs, planning my next cabin or bike trip, or getting a
+board game group together. And I might bake something to bring along. 
 
 
 
