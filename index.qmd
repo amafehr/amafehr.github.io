@@ -67,7 +67,7 @@ can we best measure the constructs driving this process in individual and collec
 
 **2024**<br>
 
-<!-- * August: Passed 1/3 of qualifying exams for the program (data science methods). -->
+* **August**: Passed a qualifying exam for the program (data science methods).
 * **July**: Attended [IC2S2](https://ic2s2-2024.org/) at University of Pennsylvania.
 * **May-June**: Biked 560 miles (10k ft elevation) of the Empire State Trail over 9 days from Buffalo, NY to NYC.
 * **May**: Finished first year of the CSDS PhD program!
@@ -77,4 +77,3 @@ can we best measure the constructs driving this process in individual and collec
 **2023**<br>
 
 * **August**: Joined the Computational Story Lab and started in the PhD program in Complex Systems and Data Science.
-

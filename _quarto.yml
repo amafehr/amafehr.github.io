@@ -10,7 +10,7 @@ website:
   title: "Ashley Fehr"
   site-url: https://amafehr.github.io
   repo-url: https://github.com/amafehr/amafehr.github.io
-  favicon: assets/images/uvm.ico
+  favicon: images/octopus_icon_transparent.png
 
   navbar:
     style: "floating"
