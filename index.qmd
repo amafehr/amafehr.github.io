@@ -9,7 +9,8 @@ title: "Welcome!"
 
 I am a second year [Complex Systems Ph.D.](https://www.uvm.edu/cems/interdisciplinary-programs) student
 at the University of Vermont in Burlington. I'm a member of the [Computational Story Lab](https://compstorylab.org/)
-at the [Vermont Complex Systems Center](https://vermontcomplexsystems.org/).
+at the [Vermont Complex Systems Institute](https://vermontcomplexsystems.org/) where I work closely with
+[Chris Danforth](https://cdanfort.w3.uvm.edu/) and [Peter Dodds](https://pdodds.w3.uvm.edu/).
 
 My main, broad interest is people in [complex systems](https://complexityexplained.github.io/).
 
@@ -67,6 +68,12 @@ can we best measure the constructs driving this process in individual and collec
 
 **2024**<br>
 
+* **November**: Presented in Story Lab on measuring emergent statistical phenomena in conversations,
+using [Heap's law](https://en.wikipedia.org/wiki/Heaps%27_law) as an information theoretic starting
+point--focusing on [CANDOR](https://www.science.org/doi/10.1126/sciadv.adf3197) and the
+[Movie-Dialogs corpus](https://www.cs.cornell.edu/~cristian/Cornell_Movie-Dialogs_Corpus.html).
+* **October**: worked with a team to instantiate a python interface to a Story Lab tool that
+performs complex analysis to plot rank divergences between 2 systems--the [py-allotax](https://github.com/carterwward/py-allotax).
 * **August**: Passed a qualifying exam for the program (data science methods).
 * **July**: Attended [IC2S2](https://ic2s2-2024.org/) at University of Pennsylvania.
 * **May-June**: Biked 560 miles (10k ft elevation) of the Empire State Trail over 9 days from Buffalo, NY to NYC.
