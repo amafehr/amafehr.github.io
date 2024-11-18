@@ -72,8 +72,9 @@ can we best measure the constructs driving this process in individual and collec
 using [Heap's law](https://en.wikipedia.org/wiki/Heaps%27_law) as an information theoretic starting
 point--focusing on [CANDOR](https://www.science.org/doi/10.1126/sciadv.adf3197) and the
 [Movie-Dialogs corpus](https://www.cs.cornell.edu/~cristian/Cornell_Movie-Dialogs_Corpus.html).
-* **October**: worked with a team to instantiate a python interface to a Story Lab tool that
-performs complex analysis to plot rank divergences between 2 systems--the [py-allotax](https://github.com/carterwward/py-allotax).
+* **October**: worked with a team to instantiate a python interface
+([py-allotax](https://github.com/carterwward/py-allotax)) to a Story Lab tool that
+performs complex analysis to plot rank divergences between 2 systems.
 * **August**: Passed a qualifying exam for the program (data science methods).
 * **July**: Attended [IC2S2](https://ic2s2-2024.org/) at University of Pennsylvania.
 * **May-June**: Biked 560 miles (10k ft elevation) of the Empire State Trail over 9 days from Buffalo, NY to NYC.
