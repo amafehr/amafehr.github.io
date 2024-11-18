@@ -4,7 +4,7 @@
     "href": "index.html",
     "title": "Welcome!",
     "section": "",
-    "text": "I am a second year Complex Systems Ph.D. student at the University of Vermont in Burlington. I’m a member of the Computational Story Lab at the Vermont Complex Systems Center.\nMy main, broad interest is people in complex systems.\nExpected graduation date of summer 2028."
+    "text": "I am a second year Complex Systems Ph.D. student at the University of Vermont in Burlington. I’m a member of the Computational Story Lab at the Vermont Complex Systems Institute where I work closely with Chris Danforth and Peter Dodds.\nMy main, broad interest is people in complex systems.\nExpected graduation date of summer 2028."
   },
   {
     "objectID": "index.html#research-interests",
@@ -25,7 +25,7 @@
     "href": "index.html#recent-news",
     "title": "Welcome!",
     "section": "Recent News",
-    "text": "Recent News\n2024\n\nAugust: Passed a qualifying exam for the program (data science methods).\nJuly: Attended IC2S2 at University of Pennsylvania.\nMay-June: Biked 560 miles (10k ft elevation) of the Empire State Trail over 9 days from Buffalo, NY to NYC.\nMay: Finished first year of the CSDS PhD program!\nMay: Presented in Story Lab on linguistic coordination in the CANDOR conversation corpus.\nApril: Presented a poster at the UVM Student Research Conference on structuring discussion forum conversations as network data.\n\n2023\n\nAugust: Joined the Computational Story Lab and started in the PhD program in Complex Systems and Data Science."
+    "text": "Recent News\n2024\n\nNovember: Presented in Story Lab on measuring emergent statistical phenomena in conversations, using Heap’s law as an information theoretic starting point–focusing on CANDOR and the Movie-Dialogs corpus.\nOctober: worked with a team to instantiate a python interface (py-allotax) to a Story Lab tool that performs complex analysis to plot rank divergences between 2 systems.\nAugust: Passed a qualifying exam for the program (data science methods).\nJuly: Attended IC2S2 at University of Pennsylvania.\nMay-June: Biked 560 miles (10k ft elevation) of the Empire State Trail over 9 days from Buffalo, NY to NYC.\nMay: Finished first year of the CSDS PhD program!\nMay: Presented in Story Lab on linguistic coordination in the CANDOR conversation corpus.\nApril: Presented a poster at the UVM Student Research Conference on structuring discussion forum conversations as network data.\n\n2023\n\nAugust: Joined the Computational Story Lab and started in the PhD program in Complex Systems and Data Science."
   },
   {
     "objectID": "about.html",
