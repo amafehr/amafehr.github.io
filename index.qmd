@@ -57,6 +57,9 @@ People are motivated to socially connect and often rely on technology and text t
 leading me in the direction of asking how well technology facilitates this goal and how
 can we best measure the constructs driving this process in individual and collective levels?
 
+Further, I like making accessible tools enabling others to conduct complexity research.
+
+
 ## Personal Interests
 * Biking
 * Science fiction and fantasy reading
@@ -66,8 +69,16 @@ can we best measure the constructs driving this process in individual and collec
 
 ## Recent News
 
+**2025**<br>
+
+* **January**: Our team published the [py-allotax](https://github.com/compstorylab/py-allotax) tool to pypi!
+We have a paper in progress describing the allotaxonometry ecosystem for researching systems. Last, I
+presented in Story Lab on spelunking among the natural and unnatural forms of conversation data.
+
 **2024**<br>
 
+* **December**: Presented in Student Complexity Research (and Pizza) seminar on additional findings
+regarding Heap's law in naturalistic conversation, individual movie conversations, and entire movie scripts.
 * **November**: Presented in Story Lab on measuring emergent statistical phenomena in conversations,
 using [Heap's law](https://en.wikipedia.org/wiki/Heaps%27_law) as an information theoretic starting
 point--focusing on [CANDOR](https://www.science.org/doi/10.1126/sciadv.adf3197) and the
