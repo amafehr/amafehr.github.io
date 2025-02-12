@@ -1,11 +1,8 @@
----
-title: "Welcome!"
----
 
 ::: columns
 
 
-::: {.column width="40%"}
+::: {.column width="35%"}
 
 I am a second year [Complex Systems Ph.D.](https://www.uvm.edu/cems/interdisciplinary-programs) student
 at the University of Vermont in Burlington. I'm a member of the [Computational Story Lab](https://compstorylab.org/)
@@ -15,41 +12,41 @@ at the [Vermont Complex Systems Institute](https://vermontcomplexsystems.org/) w
 My main, broad interest is people in [complex systems](https://complexityexplained.github.io/).
 
 
-<i>Expected graduation date of summer 2028.</i>
-
-:::
-
-::: {.column width="60%"}
-
-<img src="/images/headshot.jpg" width="60%" hspace="20">
-:::
-:::
+<i>Graduation date ~ summer 2028.</i>
 
 
-
-::: {.column-page-inset .text-center}
 ```{=html}
-<a class="btn btn-outline-dark", href="mailto:ashley.fehr@uvm.edu" target="_blank" rel="noopener noreferrer">
-    <i class="ai bi-envelope" role='img' aria-label='Email'></i> Email
-</a>
-<a class="btn btn-outline-dark", href="https://scholar.google.com/citations?user=ftgp0QoAAAAJ&hl=en" target="_blank" rel="noopener noreferrer">
-    <i class="ai ai-google-scholar" role='img' aria-label='Google Scholar'></i> Scholar
-</a>
-<!-- GITLAB COMMENTED OUT FOR NOW
-<a class="btn btn-outline-dark", href="https://gitlab.com/amafehr" target="_blank" rel="noopener noreferrer">
-    <i class="bi bi-gitlab" role='img' aria-label='Gitlab'></i> Gitlab
-</a>
--->
-<a class="btn btn-outline-dark", href="https://github.com/amafehr" target="_blank" rel="noopener noreferrer">
-    <i class="bi bi-github" role='img' aria-label='Github'></i> Github
-</a>
-<a class="btn btn-outline-dark", href="https://www.linkedin.com/in/amafehr/" target="_blank" rel="noopener noreferrer">
-    <i class="bi bi-linkedin" role='img' aria-label='LinkedIn'></i> LinkedIn
-</a>
+<div class="social-media-buttons">
+    <a class="social-button", href="mailto:ashley.fehr@uvm.edu" target="_blank">
+        <i class="ai bi-envelope" role='img' aria-label='Email'></i> Email
+    </a>
+    <a class="social-button", size=10, href="https://scholar.google.com/citations?user=ftgp0QoAAAAJ&hl=en" target="_blank" rel="noopener noreferrer">
+        <i class="ai ai-google-scholar" role='img' aria-label='Google Scholar'></i> Scholar
+    </a>
+    <!-- GITLAB COMMENTED OUT FOR NOW
+    <a class="btn btn-outline-dark", href="https://gitlab.com/amafehr" target="_blank" rel="noopener noreferrer">
+        <i class="bi bi-gitlab" role='img' aria-label='Gitlab'></i> Gitlab
+    </a>
+    -->
+    <a class="social-button", href="https://github.com/amafehr" target="_blank" rel="noopener noreferrer">
+        <i class="bi bi-github" role='img' aria-label='Github'></i> Github
+    </a>
+    <a class="social-button", href="https://www.linkedin.com/in/amafehr/" target="_blank" rel="noopener noreferrer">
+        <i class="bi bi-linkedin" role='img' aria-label='LinkedIn'></i> LinkedIn
+    </a>
+</div>
 ```
+
 :::
 
-<br><br>
+::: {.column width="65%"}
+
+<img src="/images/headshot.jpg" width="70%" hspace="30" class="rounded-border">
+
+:::
+
+
+::: {.column width="100%"}
 
 ## Research Interests
 I am interested in measuring complex, interpersonal processes in digital mediums.
@@ -57,23 +54,34 @@ People are motivated to socially connect and often rely on technology and text t
 leading me in the direction of asking how well technology facilitates this goal and how
 can we best measure the constructs driving this process in individual and collective levels?
 
-Further, I like making accessible tools enabling others to conduct complexity research.
 
+Enjoyable side quests include making accessible complexity research tools.
+
+:::
+
+::: {.column width="100%"}
 
 ## Personal Interests
 * Biking
-* Science fiction and fantasy reading
+* Science fiction and fantasy reading:
+see [The Murderbot Diaries](https://www.goodreads.com/series/191900-the-murderbot-diaries)
+by Martha Wells.
 * Board games and social video gaming
 * Baking
 
+:::
+
+::: {.column width="100%"}
 
 ## Recent News
 
 **2025**<br>
 
-* **January**: Our team published the [py-allotax](https://github.com/compstorylab/py-allotax) tool to pypi!
-We have a paper in progress describing the allotaxonometry ecosystem for researching systems. Last, I
-presented in Story Lab on spelunking among the natural and unnatural forms of conversation data.
+* **February**: Passed a qualifying exam for the program (principles of complex systems).
+* **January**: Our team published the [py-allotax](https://github.com/compstorylab/py-allotax) tool to PyPi!
+We have a paper in progress describing our tool ecosystem for researching allometric systems.
+* **January**: I presented in Story Lab on spelunking among the natural and unnatural forms of conversation data
+and how these forms impact assumptions and limitations for working with corpora.
 
 **2024**<br>
 
@@ -89,10 +97,13 @@ performs complex analysis to plot rank divergences between 2 systems.
 * **August**: Passed a qualifying exam for the program (data science methods).
 * **July**: Attended [IC2S2](https://ic2s2-2024.org/) at University of Pennsylvania.
 * **May-June**: Biked 560 miles (10k ft elevation) of the Empire State Trail over 9 days from Buffalo, NY to NYC.
-* **May**: Finished first year of the CSDS PhD program!
 * **May**: Presented in Story Lab on linguistic coordination in the [CANDOR](https://www.science.org/doi/10.1126/sciadv.adf3197) conversation corpus.
 * **April**: Presented a poster at the UVM Student Research Conference on structuring discussion forum conversations as network data.
 
 **2023**<br>
 
 * **August**: Joined the Computational Story Lab and started in the PhD program in Complex Systems and Data Science.
+
+:::
+
+:::

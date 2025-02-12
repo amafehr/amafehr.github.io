@@ -3,14 +3,16 @@ title: "About"
 ---
 
 
-Before joining the program, I worked in various roles as a research, applied, or data scientist.
-I applied my prior BA and MS education in psychology to behavioral science questions,
-conducting work ranging from survey data collection and analysis to representing people in simulations
+Before joining the Complex Systems PhD program, I worked in various roles as a research,
+applied, or data scientist. I applied my prior BA and MS education in psychology
+to behavioral science questions, conducting work ranging from survey data collection
+and analysis to representing people in simulations
 using agent based modeling. I became more interested in how to study and evaluate systems
 involving people, leading me to the area of complexity science!
 
 
-I am otherwise engaged in walking my dogs (River and Fen), planning my next cabin or bike trip, or having a game night.
+I am otherwise engaged in walking my dogs (River and Fen), planning my next
+cabin or bike trip, or having a game night.
 
 
 
