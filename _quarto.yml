@@ -26,12 +26,16 @@ website:
       #   text: Resume
       # - href: publications.qmd
       #   text: Publications
+    right:
+      - href: https://github.com/amafehr/amafehr.github.io
+        icon: github
+        aria-label: "Source Code"
     search: true
     pinned: true
 
 format:
   html:
-    theme: spacelab
+    theme: _custom.scss
     toc: true
     smooth-scroll: true
     html-math-method: katex

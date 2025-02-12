@@ -1,0 +1,73 @@
+/*-- scss:defaults --*/
+
+$theme: "spacelab";
+$font-family-sans-serif: -apple-system, 'system-ui', 'Segoe UI', Arimo, system-ui;
+$font-family-monospace: ui-monospace, Menlo, Monaco, Consolas, 'Courier New', monospace;
+$body-color: #4d5053;
+$link-color: #66a075;
+
+.navbar {
+    font-family: 'Menlo', 'Courier New', monospace;
+    background-color: #4d5053 !important;
+}
+
+// refactor the !important overrides?
+h1, h2, h3, h4, h5, h6 {
+    font-family: 'Menlo', 'Courier New', monospace;
+    margin-top: 60px !important;
+    margin-bottom: 40px !important;
+    border-bottom: 1px solid #4d5053 !important;
+}
+
+.social-media-buttons {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr); /* 2 columns */
+    gap: 7px;
+    margin-top: 25px;
+  }
+
+    .social-button {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        padding: 10px 5px;
+        border: 1.5px solid #000000;
+        border-radius: 7px;
+        color: #4d5053;
+        text-decoration: none;
+        background-color: #ffffff;
+        transition: background-color 0.3s ease, transform 0.3s ease;
+    }
+
+    .social-button:hover {
+        background-color: #41664a;
+        color: #ffffff;
+        transform: scale(1.05);
+    }
+
+// unordered list and list item styling
+ul {
+    list-style: none; /* Remove default bullets */
+    color: #4d5053;
+}
+
+    ul li {
+        position: relative; /* Position relative for absolute positioning of the pseudo-element */
+        padding-left: 20px; /* Space for the dash */
+    }
+
+    ul li::before {
+        content: "-";
+        color: #4d5053;
+        position: absolute;    /* Position the dash */
+        left: 0;
+        top: 0;
+        // line-height: 1.2;   /* Ensure proper vertical alignment */
+    }
+
+img.rounded-border {
+    border: 2px solid black;
+    border-radius: 400px;      /* Rounded corners; 20 for soft */
+    display: block;
+    margin: 0 auto;           /* Centers the image */
+  }
