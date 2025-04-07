@@ -8,10 +8,10 @@ regression, or calculating and visualizing rank of types in a system.
 TODO... add github repo, clean up and make sure there's no CANDOR data
 -->
 ### Statistical laws in conversations
-I am analyzing information scaling in conversations
-<!--(https://github.com/amafehr/convo_info)-->.
+I am analyzing information scaling in conversations.
+<!--(https://github.com/amafehr/convo_info)-->
 The manuscript in progress demonstrates Zipf / Herdan-Heaps' law
-in different kinds of conversations and goes beyond its general analysis to
+in different kinds of conversations and goes beyond its usual analysis to
 contribute new ways to statistically assess structures in conversations and
 contextualizing information scaling.
 
@@ -28,9 +28,10 @@ allometric tool ecosystem.
 ### Reddit as network data
 I explored modeling
 [Reddit posts as conversations and network data](https://github.com/amafehr/stat-6990-reddit-network).
-Findings suggested that
-positive replies yields further discussion. Further, higher user activity can contribute to
-their rank rather than needing to be an influential user with high comment scores across Reddit.
+Findings suggested that positive replies yields further discussion.
+Further, higher user activity can contribute to
+their rank rather than needing to be an influential user with high comment
+scores across Reddit.
 
 <!--
 TODO... add github repo, clean up and make sure there's no CANDOR data

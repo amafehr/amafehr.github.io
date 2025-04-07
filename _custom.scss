@@ -75,9 +75,47 @@ ul {
         // line-height: 1.2;   /* Ensure proper vertical alignment */
     }
 
+// pretty picture border
 img.rounded-border {
     border: 1.5px solid black;
     border-radius: 400px;      /* Rounded corners; 20 for soft */
     display: block;
     margin: 0 auto;           /* Centers the image */
+  }
+
+// image floating style
+.responsive-container {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    // max-width: 1000px;
+    // margin: 0 auto;
+  }
+
+  .text-column {
+    flex: 0 0 35%;
+    padding: 0em;
+  }
+
+  .image-column {
+    flex: 0 0 65%;
+    padding: 0.5em;
+    display: flex;
+    justify-content: center; // horizontally center with text column
+  }
+
+  .image-column img {
+    min-width: 310px;  // but don't shrink too much!
+    max-width: 100%;
+    height: auto;
+  }
+
+  @media (max-width: 768px) {
+    .text-column,
+    .image-column {
+      flex: 0 0 100%;
+    }
+    .text-column {
+        margin-bottom: 2em;
+      }
   }
