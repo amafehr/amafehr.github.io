@@ -1,19 +1,18 @@
 ### Principles of complex systems helpers
 [This repository](https://github.com/amafehr/pocs_helpers) (in development)
 codes helpers for the purpose of making principled complexity methods
-quickly accessible. Examples include working with text, running a linear
-regression, or calculating and visualizing rank of types in a system.
+quickly accessible. Examples include working with text, understanding your data,
+running a linear regression, or calculating and visualizing rank of types in a system.
 
 <!--
 TODO... add github repo, clean up and make sure there's no CANDOR data
 -->
 ### Statistical laws in conversations
-I am analyzing information scaling in conversations.
-<!--(https://github.com/amafehr/convo_info)-->
-The manuscript in progress demonstrates Zipf / Herdan-Heaps' law
-in different kinds of conversations and goes beyond its usual analysis to
-contribute new ways to statistically assess structures in conversations and
-contextualizing information scaling.
+I am analyzing linguistic scaling in conversations.
+<!--(https://github.com/amafehr/convo_scaling)-->
+The manuscript in progress demonstrates Zipf's and Heaps' laws
+in different kinds of conversation/discourse data and goes beyond its usual analysis to
+contribute new context to linguistic scaling.
 
 ### py-allotax
 Working with the creators of the allotaxonometer,
@@ -28,7 +27,7 @@ allometric tool ecosystem.
 ### Reddit as network data
 I explored modeling
 [Reddit posts as conversations and network data](https://github.com/amafehr/stat-6990-reddit-network).
-Findings suggested that positive replies yields further discussion.
+I found that positive replies yields further discussion.
 Further, higher user activity can contribute to
 their rank rather than needing to be an influential user with high comment
 scores across Reddit.
@@ -41,6 +40,5 @@ I assessed the representativeness of
 the CANDOR dataset to the U.S. population and analyzed the
 linguistic coordination of conversations
 <!--(https://github.com/amafehr/linguistic-coord)-->
-in
-CANDOR---how much speakers tailor their linguistic style in responses to the speaker,
-finding this effect also exists in stranger conversations.
+in CANDOR---how much speakers tailor their linguistic style in responses to the speaker,
+confirming this effect in stranger conversations.

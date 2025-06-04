@@ -1,7 +1,7 @@
 ## About
 
 Before joining the Complex Systems PhD program, I worked in various roles as a research,
-applied, or data scientist. I applied my prior BA and MS education in psychology
+applied, and data scientist. I applied my prior BA and MS education in psychology
 to behavioral science questions, conducting work ranging from survey data collection
 and analysis to representing people in simulations
 using agent based modeling. I became more interested in how to study and evaluate systems
@@ -10,7 +10,8 @@ involving people, leading me to the area of complexity science!
 
 
 ## Personal Interests
-Biking.
+Biking. An incredible local place to bike is the
+[Colchester Causeway](https://www.alltrails.com/trail/us/vermont/colchester-causeway-trail).
 
 Science fiction and fantasy reading: see
 [The Murderbot Diaries](https://www.goodreads.com/series/191900-the-murderbot-diaries)

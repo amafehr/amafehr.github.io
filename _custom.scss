@@ -67,7 +67,7 @@ ul {
     }
 
     ul li::before {
-        content: "";
+        content: "";  // set the bullet text here
         color: #4d5053;
         position: absolute;    /* Position the dash */
         left: 0;
@@ -110,6 +110,7 @@ img.rounded-border {
     height: auto;
   }
 
+  // adjusts on mobile
   @media (max-width: 768px) {
     .text-column,
     .image-column {
