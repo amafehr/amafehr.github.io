@@ -20,7 +20,7 @@ My main, broad interest is people in
 [complex systems](https://complexityexplained.github.io/).
 
 
-<i>Graduation date ~ Spring 2028.</i>
+<i>Graduation date ~ May 2028.</i>
 
 ```{=html}
 <div class="social-media-buttons">
@@ -82,6 +82,10 @@ Enjoyable side quests include making accessible complexity research tools.
 <!--
 * **August**: Became a doctoral candidate after passing my last qualifying exam for
 the program (statistical network analysis).
+* **July**: Published to arXiv on analyzing Heaps' Law and linguistic
+scaling in different types of conversation.
+* **June**: Published to arXiv our allotaxonometric ecosystem paper describing
+a series of tools to analyze systems, including the py-allotax.
 -->
 * **May**: Finished last of CSDS program course credits.
 * **April**: Presented a poster at the UVM Student Research Conference on

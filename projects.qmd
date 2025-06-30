@@ -20,8 +20,9 @@ we implemented a python wrapper and interface around javascript implementation t
 compare 2 systems' rankings of types. The
 [Python py-allotax](https://github.com/compstorylab/py-allotax)
 (published on PyPi) allows users to make allotaxonometric
-comparisons and plots programmatically. We have a paper in progress describing the
-allometric tool ecosystem.
+comparisons and plots programmatically. We describe the
+allotaxonometric tool ecosystem in
+[our paper](https://arxiv.org/abs/2506.21808).
 
 
 ### Reddit as network data
