@@ -84,9 +84,11 @@ Enjoyable side quests include making accessible complexity research tools.
 the program (statistical network analysis).
 * **July**: Published to arXiv on analyzing Heaps' Law and linguistic
 scaling in different types of conversation.
-* **June**: Published to arXiv our allotaxonometric ecosystem paper describing
-a series of tools to analyze systems, including the py-allotax.
 -->
+* **June**: Published to arXiv our
+[allotaxonometric ecosystem paper](https://arxiv.org/abs/2506.21808)
+describing
+a series of tools to analyze systems, including the py-allotax.
 * **May**: Finished last of CSDS program course credits.
 * **April**: Presented a poster at the UVM Student Research Conference on
 statistical laws in conversation mediums.
