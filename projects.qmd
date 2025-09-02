@@ -1,7 +1,7 @@
 ### Principles of complex systems helpers
 [This repository](https://github.com/amafehr/pocs_helpers) (in development)
 codes helpers for the purpose of making principled complexity methods
-quickly accessible. Examples include working with text, understanding your data,
+quickly accessible for learning or applying. Examples include working with text, understanding your data,
 running a linear regression, or calculating and visualizing rank of types in a system.
 
 <!--
