@@ -5,9 +5,9 @@
 
 <div class="text-column">
 <br>
-I am a second year
+I am a third year
 [Complex Systems PhD](https://vermontcomplexsystems.org/education/phd/)
-student at the University of Vermont in Burlington, VT. I'm a member of the
+candidate at the University of Vermont in Burlington, VT. I'm a member of the
 [Computational Story Lab](https://compstorylab.org/)
 in the
 [Vermont Complex Systems Institute](https://vermontcomplexsystems.org/)
@@ -80,15 +80,15 @@ Enjoyable side quests include making accessible complexity research tools.
 #### 2025
 
 <!--
-* **August**: Became a doctoral candidate after passing my last qualifying exam for
-the program (statistical network analysis).
-* **July**: Published to arXiv on analyzing Heaps' Law and linguistic
-scaling in different types of conversation.
+* **Sept**: Published to arXiv on analyzing
+[Heaps' Law and linguistic
+scaling in conversation](url).
 -->
+* **Sept**: Became a doctoral candidate after passing my last qualifying exam for
+the program (statistical network analysis).
 * **June**: Published to arXiv our
 [allotaxonometric ecosystem paper](https://arxiv.org/abs/2506.21808)
-describing
-a series of tools to analyze systems, including the py-allotax.
+describing a series of tools to analyze systems, including the py-allotax.
 * **May**: Finished last of CSDS program course credits.
 * **April**: Presented a poster at the UVM Student Research Conference on
 statistical laws in conversation mediums.
