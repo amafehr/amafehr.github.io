@@ -80,7 +80,7 @@ Enjoyable side quests include making accessible complexity research tools.
 #### 2025
 
 <!--
-* **Sept**: Published to arXiv on analyzing
+* **Oct**: Published to arXiv on analyzing
 [Heaps' Law and linguistic
 scaling in conversation](url).
 -->

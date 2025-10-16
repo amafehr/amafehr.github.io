@@ -5,13 +5,14 @@ quickly accessible for learning or applying. Examples include working with text,
 running a linear regression, or calculating and visualizing rank of types in a system.
 
 <!--
-TODO... add github repo, clean up and make sure there's no CANDOR data
+TODO... add github repo, clean up
 -->
 ### Statistical laws in conversations
-I am analyzing linguistic scaling in conversations.
+I am analyzing linguistic scaling in conversations across 2 mediums (naturalistic
+and fictional).
 <!--(https://github.com/amafehr/convo_scaling)-->
 The manuscript in progress demonstrates Zipf's and Heaps' laws
-in different kinds of conversation/discourse data and goes beyond its usual analysis to
+in different kinds of conversational text and goes beyond its usual analysis to
 contribute new context to linguistic scaling.
 
 ### py-allotax
@@ -34,7 +35,7 @@ their rank rather than needing to be an influential user with high comment
 scores across Reddit.
 
 <!--
-TODO... add github repo, clean up and make sure there's no CANDOR data
+TODO... add github repo, clean up and remove data
 -->
 ### Linguistic coordination
 I assessed the representativeness of
