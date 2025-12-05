@@ -12,7 +12,7 @@ candidate at the University of Vermont in Burlington, VT. I'm a member of the
 in the
 [Vermont Complex Systems Institute](https://vermontcomplexsystems.org/)
 where I work closely with
-[Chris Danforth](https://cdanfort.w3.uvm.edu/)
+Drs. [Chris Danforth](https://cdanfort.w3.uvm.edu/)
 and
 [Peter Dodds](https://pdodds.w3.uvm.edu/).
 
@@ -80,12 +80,16 @@ Enjoyable side quests include making accessible complexity research tools.
 #### 2025
 
 <!--
-* **Oct**: Published to arXiv on analyzing
+* **Dec**: Published to arXiv on analyzing
 [Heaps' Law and linguistic
 scaling in conversation](url).
 -->
-* **Sept**: Became a doctoral candidate after passing my last qualifying exam for
+* **October**: Presented at PyData Vermont on fundamental linguistics for
+Natural Language Processing.
+* **September**: Became a doctoral candidate after passing my last qualifying exam for
 the program (statistical network analysis).
+* **August**: Presented in Story Lab on statistical and linguistic findings across
+conversational mediums.
 * **June**: Published to arXiv our
 [allotaxonometric ecosystem paper](https://arxiv.org/abs/2506.21808)
 describing a series of tools to analyze systems, including the py-allotax.

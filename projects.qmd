@@ -10,10 +10,9 @@ TODO... add github repo, clean up
 ### Statistical laws in conversations
 I am analyzing linguistic scaling in conversations across 2 mediums (naturalistic
 and fictional).
-<!--(https://github.com/amafehr/convo_scaling)-->
+<!--(https://gitlab.com/amafehr/convo_scaling)-->
 The manuscript in progress demonstrates Zipf's and Heaps' laws
-in different kinds of conversational text and goes beyond its usual analysis to
-contribute new context to linguistic scaling.
+in different conversational mediums and contributes new context to linguistic scaling.
 
 ### py-allotax
 Working with the creators of the allotaxonometer,
