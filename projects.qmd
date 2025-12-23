@@ -8,11 +8,12 @@ running a linear regression, or calculating and visualizing rank of types in a s
 TODO... add github repo, clean up
 -->
 ### Statistical laws in conversations
-I am analyzing linguistic scaling in conversations across 2 mediums (naturalistic
+I analyzed linguistic scaling in conversational texts (naturalistic
 and fictional).
 <!--(https://gitlab.com/amafehr/convo_scaling)-->
-The manuscript in progress demonstrates Zipf's and Heaps' laws
-in different conversational mediums and contributes new context to linguistic scaling.
+[Results](https://arxiv.org/abs/2512.18072)
+demonstrate Zipf's and Heaps' laws
+in different conversational mediums with differences by parts of speech.
 
 ### py-allotax
 Working with the creators of the allotaxonometer,
@@ -40,6 +41,6 @@ TODO... add github repo, clean up and remove data
 I assessed the representativeness of
 the CANDOR dataset to the U.S. population and analyzed the
 linguistic coordination of conversations
-<!--(https://github.com/amafehr/linguistic-coord)-->
+<!--(https://gitlab.com/amafehr/linguistic_coord)-->
 in CANDOR---how much speakers tailor their linguistic style in responses to the speaker,
 confirming this effect in stranger conversations.

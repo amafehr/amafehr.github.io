@@ -79,11 +79,8 @@ Enjoyable side quests include making accessible complexity research tools.
 
 #### 2025
 
-<!--
-* **Dec**: Published to arXiv on analyzing
-[Heaps' Law and linguistic
-scaling in conversation](url).
--->
+* **December**: Published to arXiv on analyzing
+[Heaps' Law and linguistic scaling in conversation](https://arxiv.org/abs/2512.18072).
 * **October**: Presented at PyData Vermont on fundamental linguistics for
 Natural Language Processing.
 * **September**: Became a doctoral candidate after passing my last qualifying exam for
