@@ -1,3 +1,12 @@
+### Fictional archetypes in straight-queer space
+Using the
+[Archetypes dataset](https://compstorylab.org/archetypometrics/)
+and its SVD, we analyze samples of characters in
+stories across TV, film, and literature, focusing on the trait differential spanning
+straight to queer. We observe a multitude of archetypes among queer characters
+and their nearest neighbors, demonstrating a paradoxical breadth of representation
+while surfacing some persist societal biases.
+
 ### Principles of complex systems helpers
 [This repository](https://github.com/amafehr/pocs_helpers) (in development)
 codes helpers for the purpose of making principled complexity methods
