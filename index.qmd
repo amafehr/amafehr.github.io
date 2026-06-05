@@ -63,7 +63,7 @@ My main, broad interest is people in
 ## Research Interests
 I'm interested in measuring complex, interpersonal processes in digital mediums.
 People are motivated to socially connect and often rely on technology and text
-to do so---an often toneless medium. I wonder how well technology facilitates
+to do so---a seemingly toneless medium. I wonder how well technology facilitates
 this goal and how we can best measure the constructs driving this process in
 individual and collective levels.
 
@@ -79,15 +79,21 @@ Enjoyable side quests include making accessible complexity research tools.
 
 #### 2026
 
+* **May--July**: co-organized parallel session of IC2S2 2026 conference in Burlington, Vermont.
+* **May**: Biked 140 miles (4k ft elevation) of Vermont rail trails in the Northeast Kingdom over
+3 days.
+* **May**: Received a VCSI Complexity Award for $7000 to expand research and skills talks to serve our complexity research community (the CRUMBS series).
+* **April**: Presented a poster at the UVM Student Research Conference on
+portrayal and perception of queer characters in fiction.
 * **March**: Presented in Story Lab on
 [archetypes](https://compstorylab.org/archetypometrics/)
 in the straight-queer semantic differential trait.
 * **March**: Co-created and began a new graduate research community meeting series
-on skills, process, and methods: CRUMBS
+on skills, process, and methods: CRUMBS.
 (Computing, Research, and Useful Methods for Being Scientific).
 * **January**: Submitted our
 [type-token and linguistic scaling paper](https://arxiv.org/abs/2512.18072)
-for publication!
+for publication (pending review)!
 
 #### 2025
 
