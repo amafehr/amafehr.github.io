@@ -4,6 +4,7 @@ $theme: "spacelab";
 $font-family-sans-serif: -apple-system, 'system-ui', 'Segoe UI', Arimo, system-ui;
 $font-family-monospace: ui-monospace, Menlo, Monaco, Consolas, 'Courier New', monospace;
 $body-color: #4d5053;
+$body-bg: #f4f4f4;
 $link-color: #66a075;
 
 
@@ -45,13 +46,13 @@ h4, h5, h6 {
         border-radius: 7px;
         color: #4d5053;
         text-decoration: none;
-        background-color: #ffffff;
+        background-color: #f4f4f4;
         transition: background-color 0.3s ease, transform 0.3s ease;
     }
 
     .social-button:hover {
         background-color: #41664a;
-        color: #ffffff;
+        color: #f4f4f4;
         transform: scale(1.05);
     }
 

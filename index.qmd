@@ -51,8 +51,9 @@ My main, broad interest is people in
 </div>
 
 
-<div class="image-column">
-<img src="/images/headshot.jpg" width="65%" hspace="30" class="rounded-border">
+<div class="image-column" style="text-align: center;">
+  <img src="/images/headshot.jpg" class="rounded-border"
+       style="width: 65%; max-width: 300px;">
 </div>
 
 :::
@@ -79,7 +80,7 @@ Enjoyable side quests include making accessible complexity research tools.
 
 #### 2026
 
-* **May--July**: co-organized parallel session of IC2S2 2026 conference in Burlington, Vermont.
+* **May--July**: co-organized the parallel talks session of the IC2S2 2026 conference in Burlington, Vermont.
 * **May**: Biked 140 miles (4k ft elevation) of Vermont rail trails in the Northeast Kingdom over
 3 days.
 * **May**: Received a VCSI Complexity Award for $7000 to expand research and skills talks to serve our complexity research community (the CRUMBS series).
@@ -93,7 +94,7 @@ on skills, process, and methods: CRUMBS.
 (Computing, Research, and Useful Methods for Being Scientific).
 * **January**: Submitted our
 [type-token and linguistic scaling paper](https://arxiv.org/abs/2512.18072)
-for publication (pending review)!
+for publication (under review)!
 
 #### 2025
 
@@ -117,8 +118,7 @@ a draft package to provide principled, accessible complexity methods.
 * **February**: Passed a qualifying exam for the program (principles of complex systems).
 * **January**: Our team published the
 [py-allotax](https://github.com/compstorylab/py-allotax)
-tool to PyPi!
-We have a paper in progress describing our tool ecosystem for researching allometric systems.
+tool to PyPi with a paper in progress describing our tool ecosystem for researching allometric systems.
 * **January**: Presented in Story Lab on spelunking among the natural and unnatural forms of conversation data
 and how these forms impact assumptions and limitations for working with text corpora.
 
@@ -137,7 +137,7 @@ and the
 * **October**: worked with a team to instantiate a python interface
 ([py-allotax](https://github.com/carterwward/py-allotax))
 to a Story Lab tool that performs complex analysis to plot rank divergences between 2 systems.
-* **August**: Passed a qualifying exam for the program (data science methods).
+* **August**: Passed a qualifying exam for the PhD program (data science methods).
 * **July**: Attended
 [IC2S2](https://ic2s2-2024.org/)
 at University of Pennsylvania.

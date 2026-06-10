@@ -27,6 +27,10 @@ website:
       - href: https://github.com/amafehr/amafehr.github.io
         icon: github
         aria-label: "Source Code"
+      - icon: stars
+        href: "#"
+        id: "stars-btn"
+        aria-label: "Confetti"
     search: true
     pinned: true
 
@@ -42,3 +46,5 @@ format:
     code-fold: true
     grid:
       body-width: 1100px
+    include-after-body:
+      - text: "<script src='/scripts/stars.js'></script>"
