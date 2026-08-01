@@ -1,23 +1,26 @@
 ### Fictional archetypes in straight-queer space
 Using the
-[Archetypes dataset](https://compstorylab.org/archetypometrics/)
-and its SVD, we analyze samples of characters in
+[Archetypes dataset](https://compstorylab.org/archetypometrics/),
+we analyze samples of characters in
 stories across TV, film, and literature, focusing on the trait differential spanning
-straight to queer. We observe a multitude of archetypes among queer characters
-and their nearest neighbors, demonstrating a paradoxical breadth of representation
-while surfacing some persist societal biases.
+straight to queer.
+[Results](https://arxiv.org/abs/2607.08859)
+show a multitude of archetypes among queer characters and their nearest neighbors,
+demonstrating a paradoxical breadth of representation
+while surfacing persist societal biases.
 
 ### Principles of complex systems helpers
 [This repository](https://github.com/amafehr/pocs_helpers) (in development)
 codes helpers for the purpose of making principled complexity methods
-quickly accessible for learning or applying. Examples include working with text, understanding your data,
-running a linear regression, or calculating and visualizing rank of types in a system.
+quickly accessible for learning or applying. Examples include working with text,
+understanding your data, running a linear regression, or calculating and visualizing
+rank of types in a system.
 
 <!--
 TODO... add github repo, clean up
 -->
 ### Statistical laws in conversations
-I analyzed linguistic scaling in conversational texts (naturalistic
+We analyzed linguistic scaling in conversational texts (naturalistic
 and fictional).
 <!--(https://gitlab.com/amafehr/convo_scaling)-->
 [Results](https://arxiv.org/abs/2512.18072)

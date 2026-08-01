@@ -80,10 +80,17 @@ Enjoyable side quests include making accessible complexity research tools.
 
 #### 2026
 
-* **May--July**: co-organized the parallel talks session of the IC2S2 2026 conference in Burlington, Vermont.
-* **May**: Biked 140 miles (4k ft elevation) of Vermont rail trails in the Northeast Kingdom over
-3 days.
-* **May**: Received a VCSI Complexity Award for $7000 to expand research and skills talks to serve our complexity research community (the CRUMBS series).
+* **July**: Presented at IC2S2 on queer character archetypes.
+* **July**: Biked an imperial century on Vermont rail trails!
+* **July**: Submitted our paper on
+[archetypometric analysis of queerness in fictional stories](https://arxiv.org/abs/2607.08859)
+for publication (under review).
+* **May--July**: Co-organized the parallel talks session of the IC2S2 2026
+conference in Burlington, Vermont.
+* **May**: Biked 140 miles (4k ft elevation) of Vermont rail trails in the Northeast
+Kingdom over 3 days.
+* **May**: Received a VCSI Complexity Award for $7000 to expand research and skills
+talks to serve our complexity research community (the CRUMBS series).
 * **April**: Presented a poster at the UVM Student Research Conference on
 portrayal and perception of queer characters in fiction.
 * **March**: Presented in Story Lab on
@@ -94,7 +101,7 @@ on skills, process, and methods: CRUMBS.
 (Computing, Research, and Useful Methods for Being Scientific).
 * **January**: Submitted our
 [type-token and linguistic scaling paper](https://arxiv.org/abs/2512.18072)
-for publication (under review)!
+for publication (under review).
 
 #### 2025
 
