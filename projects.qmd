@@ -1,6 +1,6 @@
 ### Fictional archetypes in straight-queer space
 Using the
-[Archetypes dataset](https://compstorylab.org/archetypometrics/),
+[Archetypometrics dataset](https://compstorylab.org/archetypometrics/),
 we analyze samples of characters in
 stories across TV, film, and literature, focusing on the trait differential spanning
 straight to queer.
@@ -9,6 +9,7 @@ show a multitude of archetypes among queer characters and their nearest neighbor
 demonstrating a paradoxical breadth of representation
 while surfacing persist societal biases.
 
+
 ### Principles of complex systems helpers
 [This repository](https://github.com/amafehr/pocs_helpers) (in development)
 codes helpers for the purpose of making principled complexity methods
@@ -16,21 +17,18 @@ quickly accessible for learning or applying. Examples include working with text,
 understanding your data, running a linear regression, or calculating and visualizing
 rank of types in a system.
 
-<!--
-TODO... add github repo, clean up
--->
+
 ### Statistical laws in conversations
-We analyzed linguistic scaling in conversational texts (naturalistic
+We analyzed linguistic scaling in conversational texts (naturalistic video
 and fictional).
-<!--(https://gitlab.com/amafehr/convo_scaling)-->
 [Results](https://arxiv.org/abs/2512.18072)
 demonstrate Zipf's and Heaps' laws
 in different conversational mediums with differences by parts of speech.
 
 ### py-allotax
-Working with the creators of the allotaxonometer,
-we implemented a python wrapper and interface around javascript implementation to
-compare 2 systems' rankings of types. The
+We implemented a python wrapper and interface around javascript implementation to
+compare 2 systems' rankings of types with the goal of accessibility for researchers.
+The
 [Python py-allotax](https://github.com/compstorylab/py-allotax)
 (published on PyPi) allows users to make allotaxonometric
 comparisons and plots programmatically. We describe the
@@ -46,13 +44,10 @@ Further, higher user activity can contribute to
 their rank rather than needing to be an influential user with high comment
 scores across Reddit.
 
-<!--
-TODO... add github repo, clean up and remove data
--->
+
 ### Linguistic coordination
 I assessed the representativeness of
 the CANDOR dataset to the U.S. population and analyzed the
 linguistic coordination of conversations
-<!--(https://gitlab.com/amafehr/linguistic_coord)-->
 in CANDOR---how much speakers tailor their linguistic style in responses to the speaker,
 confirming this effect in stranger conversations.

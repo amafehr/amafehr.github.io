@@ -35,13 +35,16 @@ h4, h5, h6 {
     grid-template-columns: repeat(2, 1fr); /* 2 columns */
     gap: 7px;
     margin-top: 25px;
+    margin-left: 33px;
+    margin-right: 33px;
   }
 
     .social-button {
         display: flex;
         align-items: center;
         justify-content: center;
-        padding: 10px 5px;
+        padding: 8px 5px;
+        gap: 3px;
         border: 1.5px solid #000000;
         border-radius: 7px;
         color: #4d5053;
