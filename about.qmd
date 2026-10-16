@@ -7,6 +7,8 @@ and analysis to representing people in simulations
 using agent based modeling. I became more interested in how to study and evaluate systems
 involving people, leading me to the area of complexity science!
 
+If you are interested in collaborating or discussing research, feel free to contact me.
+My CV is available upon request.
 
 
 ## Personal Interests
@@ -21,5 +23,4 @@ Board games and video games. Terraforming Mars is my latest discovery.
 
 Baking.
 
-I'm otherwise engaged in walking my dogs (River and Fen), planning my next
-cabin or bike trip, or having a game night.
+Building the picture compendium of my dogs (River and Fen).
