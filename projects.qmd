@@ -1,13 +1,22 @@
+### Ousiometric analysis of changepoints in conversations
+
+We analyze
+[NPR's StoryCorps](https://storycorps.org/stories/)
+conversational text corpus with kernel Change Point Detection within
+[ousiometric](https://www.science.org/doi/full/10.1126/sciadv.adr4039)
+shifts to qualify shapes of connection. Research is in progress to characterize
+these contexts and what produces them.
+
+
 ### Fictional archetypes in straight-queer space
 Using the
 [Archetypometrics dataset](https://compstorylab.org/archetypometrics/),
-we analyze samples of characters in
+we analyzed samples of characters in
 stories across TV, film, and literature, focusing on the trait differential spanning
 straight to queer.
 [Results](https://arxiv.org/abs/2607.08859)
 show a multitude of archetypes among queer characters and their nearest neighbors,
-demonstrating a paradoxical breadth of representation
-while surfacing persist societal biases.
+demonstrating a breadth of representation and surfacing persist societal biases.
 
 
 ### Principles of complex systems helpers

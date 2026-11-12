@@ -77,6 +77,8 @@ Side quests include making accessible complexity research tools.
 
 #### 2026
 
+* **November**: Presented in CRUMBS panel on processes and pain points in references,
+research and writing, and code. 
 * **October**: Presented in Story Lab on qualifying connection in change points within
 Storycorps' conversational recordings.
 * **September**: Presented in CRUMBS on tools, methods, and advice in a Computational
